@@ -2,7 +2,7 @@
 Parking Lot Space Counter for TigerHacks 2022
 
 ## Website
-https://eas4875.wixsite.com/hehe
+https://eas4875.wixsite.com/parkingpal
 
 ## Inspiration
 A major problem on our college campus is parking lot availability, especially for commuters. There are cameras that monitor the parking lots however the video feeds are hard to access and clicking through all of them is time-consuming. We were interested in computer vision and have heard of the concept of using it to analyze parking lots to see what spaces are available or not. We thought a great idea for a start-up would be to create a system that can analyze parking lots and easily share the data with both the organizations that use the parking lots and potential customers that want to find a place to park. For a customer or commuter, knowing if spaces are available and when the parking lot is the busiest would make going to a location less stressful. An organization can use this data to more fully understand when they are the busiest and if they have adequate parking available. Furthermore, this could be used to better community nfrastructure by showing where parking is in the highest demand or to encourage commuters to use other transportation on days when parking is the most scarce. 
